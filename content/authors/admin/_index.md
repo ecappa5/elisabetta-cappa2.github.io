@@ -1,27 +1,25 @@
 ---
 # Display name
-title: 吳健雄
+title: Elisabetta Cappa
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Elisabetta
+last_name: Cappa
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+# role: Director of Cloud Infrastructure
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: Sant'Anna School of Advanced Studies
     url: https://www.example.com/
 
 # Social network links
